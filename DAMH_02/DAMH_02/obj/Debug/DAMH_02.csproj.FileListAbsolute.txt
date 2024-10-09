@@ -1,0 +1,14 @@
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\bin\Debug\DAMH_02.exe
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\bin\Debug\DAMH_02.exe.config
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.csproj.AssemblyReference.cache
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.csproj.SuggestedBindingRedirects.cache
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.FormKQHT.resources
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.FormLogin.resources
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.FormLSHT.resources
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.FormTTSV.resources
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.Properties.Resources.resources
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.csproj.GenerateResource.cache
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.csproj.CoreCompileInputs.cache
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.exe
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\obj\Debug\DAMH_02.pdb
+D:\File_result\visual_studio\DAMH_02\DAMH_02\DAMH_02\bin\Debug\DAMH_02.pdb
